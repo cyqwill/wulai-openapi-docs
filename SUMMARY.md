@@ -1,5 +1,15 @@
 # Table of contents
 
-* [README](README.md)
-* [如何选择适合自己的接入方式](ru-he-xuan-ze-shi-he-zi-ji-de-jie-ru-fang-shi.md)
-
+* [简介](README.md)
+* [功能点](function_point/readme.md)
+  * [机器人回复](function_point/bot_reply/readme.md)
+    * [如何选择适合自己的接入方式](function_point/bot_reply/ru-he-xuan-ze-shi-he-zi-ji-de-jie-ru-fang-shi.md)
+* [最佳实践](best_practice/readme.md)
+  * [在自有客服工具中嵌入机器人能力](best_practice/self_custom_system.md)
+  * [在微信小程序中嵌入机器人能力](best_practice/miniprogram.md)
+  * [使用接入方信息指导机器人行为](best_practice/plugins/readme.md)
+* [经典案例](classic_case/readme.md)
+  * [中国移动-充话费机器人](classic_case/china_mobile.md)
+  * [麦当劳-点餐机器人](classic_case/mc.md)
+  * [学旅家-销售线索收集机器人](classic_case/student.md)
+  * [沃尔玛-智能客服](classic_case/walmart.md)
