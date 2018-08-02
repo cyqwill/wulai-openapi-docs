@@ -1,6 +1,9 @@
 # Table of contents
 
 * [简介](README.md)
+* [接入前必读](prepare/readme.md)
+    * [基本概念](prepare/concept.md)
+    * [基本功能](prepare/function.md)
 * [功能点](function_point/readme.md)
   * [自动问答](function_point/bot_reply/readme.md)
     * [如何选择适合自己的接入方式](function_point/bot_reply/ru-he-xuan-ze-shi-he-zi-ji-de-jie-ru-fang-shi.md)
@@ -24,3 +27,4 @@
   * [麦当劳-点餐机器人](classic_case/mcdonald.md)
   * [学旅家-销售线索收集机器人](classic_case/student.md)
   * [沃尔玛-智能客服](classic_case/walmart.md)
+* [常见问题](faq/readme.md)
