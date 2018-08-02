@@ -4,6 +4,8 @@
 * [功能点](function_point/readme.md)
   * [机器人回复](function_point/bot_reply/readme.md)
     * [如何选择适合自己的接入方式](function_point/bot_reply/ru-he-xuan-ze-shi-he-zi-ji-de-jie-ru-fang-shi.md)
+    * [同步方式接入流程](function_point/sync.md)
+    * [异步方式接入流程](function_point/async.md)
 * [最佳实践](best_practice/readme.md)
   * [在自有客服工具中嵌入机器人能力](best_practice/self_custom_system.md)
   * [在微信小程序中嵌入机器人能力](best_practice/miniprogram.md)
