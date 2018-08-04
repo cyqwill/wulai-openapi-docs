@@ -1,8 +1,9 @@
 # 客服侧输入提示
 客服侧输入提示，是吾来标准版im平台提供的功能。在接入方自有客服工具的情况下，如也想获得此功能，需要对接开放平台接口。
+
 ![-w1088](http://pcufcif6r.bkt.clouddn.com/15334004125612.jpg)
 
 异步方式不支持实现该功能。
 
 ## 同步方式接入
-利用客服输入的Query，调用[获取候选回复接口](http://openapi.wul.ai/1.3.0/docs#operation/MessageRoute)，返回的候选回复可作为客服侧输入提示展示。
+利用客服输入的Query，调用[获取候选回复接口](http://openapi.wul.ai/1.3.0/docs#operation/MessageRoute)，返回的候选回复可作为客服侧输入提示展示。  ``
