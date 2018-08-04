@@ -13,7 +13,7 @@
     * [机器人标签](function_point/bot_reply/bot_label.md)
   * [智能推荐](function_point/recommand/README.md)
     * [相似问题](function_point/recommand/similar_question.md)
-    * [建议客服回复](function_point/recommand/jian-yi-ke-fu-hui-fu.md)
+    * [客服侧输入提示](function_point/recommand/jian-yi-ke-fu-hui-fu.md)
     * [标签体系与智能推送](function_point/recommand/smart_push.md)
   * [智能派发](function_point/dispatch/README.md)
     * [自定义派发规则](function_point/dispatch/self_define.md)
