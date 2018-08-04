@@ -25,7 +25,7 @@
   * [在微信小程序中嵌入机器人能力](best_practice/miniprogram.md)
   * [使用接入方信息指导机器人行为](best_practice/plugins.md)
 * [经典案例](classic_case/README.md)
-  * [惠氏](classic_case/hui-shi.md)
+  * [惠氏-问答机器人](classic_case/hui-shi.md)
   * [中国移动-充话费机器人](classic_case/china_mobile.md)
   * [麦当劳-点餐机器人](classic_case/mcdonald.md)
   * [学旅家-销售线索收集机器人](classic_case/student.md)
