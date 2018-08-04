@@ -5,6 +5,7 @@
 接入方根据[获取机器人回复](http://openapi.wul.ai/1.3.0/docs#operation/GetBotResponse)接口，获取到候选回复列表，即suggested_response字段。  
 suggested_response字段是一个列表，每一个元素代表一组候选回复，每组候选回复中包含很多条消息（如一条文本+一张图片）。  
 一组候选回复来源于一个知识点/对话单元；一组候选回复中的多条消息，要么全部发送，要么全部不发。  
+
 ![-w650](http://pcufcif6r.bkt.clouddn.com/15333948514435.jpg)
 
 同时每组候选回复包含一个字段is_send，该字段标识这组候选回复是否要发送给用户。如果is_send=true，将该组候选回复中所有消息发送给用户即可。  
