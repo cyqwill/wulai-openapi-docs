@@ -33,19 +33,21 @@
 
 
 ### 我是否有支持异步投递的客户端？   
-![](https://laiye-im-saas.oss-cn-beijing.aliyuncs.com/15331909791565.jpg)
+![](http://pcufcif6r.bkt.clouddn.com/15333928606429.jpg)
+
 
 
 ### 我是否需要使用吾来工作台人工服务用户？    
-![](https://laiye-im-saas.oss-cn-beijing.aliyuncs.com/mweb/15331909994849.jpg)
+![](http://pcufcif6r.bkt.clouddn.com/15333928730032.jpg)
 
 
 ### 我是否需要自定义发送策略  
-![](https://laiye-im-saas.oss-cn-beijing.aliyuncs.com/mweb/15331910191111.jpg)
+![](http://pcufcif6r.bkt.clouddn.com/15333928867715.jpg)
+
 
 
 ### 我希望可以使用满意度评价功能，在吾来后台看到用户对答案的点赞或点踩  
-![-w989](http://pcufcif6r.bkt.clouddn.com/15333800260441.jpg)
+![](http://pcufcif6r.bkt.clouddn.com/15333800260441.jpg)
 
 
 ## 具体接入流程
