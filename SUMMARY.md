@@ -10,6 +10,7 @@
 * [功能点](function_point/README.md)
   * [自动问答](function_point/bot_reply/README.md)
     * [自定义回复策略](function_point/bot_reply/self_define.md)
+    * [机器人标签](function_point/bot_reply/bot_label.md)
   * [智能推荐](function_point/recommand/README.md)
     * [相似问题](function_point/recommand/similar_question.md)
     * [建议客服回复](function_point/recommand/jian-yi-ke-fu-hui-fu.md)

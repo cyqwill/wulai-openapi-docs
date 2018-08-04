@@ -9,6 +9,15 @@ suggested_response字段是一个列表，每一个元素代表一组候选回�
 ![-w650](http://pcufcif6r.bkt.clouddn.com/15333948514435.jpg)
 
 同时每组候选回复包含一个字段is_send，该字段标识这组候选回复是否要发送给用户。如果is_send=true，将该组候选回复中所有消息发送给用户即可。  
+吾来根据机器人给出的候选回复置信度和机器人派发模式。（如全自动、半自动、辅助人工方式）综合考虑，决定is_send的值。
+
+| 派发模式\分数区间 | 0-0.6 | 0.6-0.8 | 0.8-1.0 |
+| --- | --- | --- | --- |
+| 全自动 | False | True | True |
+| 半自动 | False | False | True |
+| 辅助人工 | False | False | False |
+
+
 
 ## 异步方式接入
-异步方式接入的情况下，吾来会自动选择需要发送的消息，发送到接入方提供的[消息投递接口](http://openapi.wul.ai/1.3.0/docs#operation/CallbackMessage)。接入方收到消息后，直接发送给用户即可。  
+异步方式接入的情况下，吾来会自动选择需要发送的候选回复（即is_send=true的候选回复），发送到接入方提供的[消息投递接口](http://openapi.wul.ai/1.3.0/docs#operation/CallbackMessage)。接入方收到消息后，直接发送给用户即可。
