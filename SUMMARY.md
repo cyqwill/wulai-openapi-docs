@@ -25,6 +25,8 @@
     * [文本相似度](function_point/nlu/text_similarity.md)
     * [意图识别、实体抽取](function_point/nlu/intent_entity.md)
     * [情感识别](function_point/nlu/sematic.md)
+  * [多渠道触达](function_point/channel/readme.md)
+    * [自定义sdk样式](function_point/channel/sdk.md)
 * [最佳实践](best_practice/README.md)
   * [在自有客服工具中嵌入机器人能力](best_practice/self_custom_system.md)
   * [在微信小程序中嵌入机器人能力](best_practice/miniprogram.md)
